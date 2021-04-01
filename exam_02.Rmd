@@ -1,0 +1,55 @@
+---
+title: "Exam 02"
+author: "Your name here"
+subtitle: STA 199, Spring 2021, Duke University
+output:
+  html_document:
+    df_print: paged
+---
+
+
+## Packages
+
+You’ll need the following `R` packages for this exam.
+
+```{r packages, include=FALSE}
+library(tidyverse)
+library(infer)
+library(broom)
+```
+## Data
+
+To get started, read in the data. This code is provided in your
+`exam_02.Rmd` file.
+
+```{r bikes, include=FALSE}
+bikes <- read.csv("~/bikes.csv")
+```
+
+# Task 1
+
+# Task 2
+
+# Task 3
+
+# Task 4
+
+# Task 5
+
+# Task 6
+
+# Task 7
+
+# Task 8
+
+# Task 9
+
+# Task 10
+
+# Task 11
+
+# Task 12
+
+# Task 13
+
+# Task 14
