@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+git_reset.sh
+*.html
+README.Rmd
+data_build/
