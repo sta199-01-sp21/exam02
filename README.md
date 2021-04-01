@@ -6,7 +6,7 @@ The exam questions are in the README portion of the repository below.
 
 ### Deadline
 
-This exam is due **DUE DATE HERE**.
+This exam is due on Monday April 5 at 11:59 PM.
 
 You must submit a PDF document to Gradescope that corresponds to an
 `.Rmd` file on your GitHub repository in order to receive credit for
